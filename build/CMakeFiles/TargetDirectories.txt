@@ -1,3 +1,0 @@
-/Users/reallytherealest/Desktop/CS/Testing/WaveShaper/build/CMakeFiles/waveshaper.dir
-/Users/reallytherealest/Desktop/CS/Testing/WaveShaper/build/CMakeFiles/edit_cache.dir
-/Users/reallytherealest/Desktop/CS/Testing/WaveShaper/build/CMakeFiles/rebuild_cache.dir
