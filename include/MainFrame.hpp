@@ -8,8 +8,13 @@
 class MainFrame: public wxFrame {
     // MainFrame is the class for our window,
 	// It contains the window and all objects in it 
-public: 
-	MainFrame(const wxString &title, const wxPoint &pos, const wxSize &size); 
+public:
+	MainFrame(const wxString &title);
+public:
+	wxPanel* main_panel;
+
+	void CreateControls();
+	void SetupSizers();
 };
 
 #endif

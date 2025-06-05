@@ -5,13 +5,16 @@
 #include "MainFrame.hpp"
 
 /*
+    cd build
     cmake .. && cmake --build . && ./waveshaper
 */
 
 wxIMPLEMENT_APP(App);
 
 bool App::OnInit() {
-    MainFrame* mainFrame = new MainFrame("WaveShaper", wxDefaultPosition, wxSize(800, 600));
-    mainFrame->Show();
+    MainFrame* main_frame = new MainFrame("WaveShaper");
+    main_frame->SetClientSize(800, 600);
+    main_frame->Center();
+    main_frame->Show();
     return true;
 }

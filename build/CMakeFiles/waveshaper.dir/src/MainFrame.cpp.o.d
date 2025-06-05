@@ -1205,4 +1205,5 @@ CMakeFiles/waveshaper.dir/src/MainFrame.cpp.o: \
   /usr/local/include/wx-3.2/wx/osx/filedlg.h \
   /usr/local/include/wx-3.2/wx/mdi.h \
   /usr/local/include/wx-3.2/wx/osx/mdi.h \
+  /usr/local/include/wx-3.2/wx/gbsizer.h \
   /Users/reallytherealest/Desktop/CS/Testing/WaveShaper/include/MainFrame.hpp

@@ -2252,6 +2252,7 @@ CMakeFiles/waveshaper.dir/src/MainFrame.cpp.o: /Users/reallytherealest/Desktop/C
   /usr/local/include/wx-3.2/wx/fontenc.h \
   /usr/local/include/wx-3.2/wx/frame.h \
   /usr/local/include/wx-3.2/wx/gauge.h \
+  /usr/local/include/wx-3.2/wx/gbsizer.h \
   /usr/local/include/wx-3.2/wx/gdicmn.h \
   /usr/local/include/wx-3.2/wx/gdiobj.h \
   /usr/local/include/wx-3.2/wx/generic/choicdgg.h \
@@ -2508,6 +2509,8 @@ CMakeFiles/waveshaper.dir/src/MainFrame.cpp.o: /Users/reallytherealest/Desktop/C
 /usr/local/include/wx-3.2/wx/osx/slider.h:
 
 /usr/local/include/wx-3.2/wx/osx/region.h:
+
+/usr/local/include/wx-3.2/wx/gbsizer.h:
 
 /usr/local/include/wx-3.2/wx/osx/radiobut.h:
 
